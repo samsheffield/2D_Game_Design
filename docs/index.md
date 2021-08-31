@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 2D Game Design (GMD 230.01)
 
-You can use the [editor on GitHub](https://github.com/samsheffield/2D_Game_Design/edit/Fall_21/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### About
+This is the class site for 2D Game Design, taught in the Game Design program by Sam Sheffield (ssheffield@mica.edu). It is primarily intended for student use, but if what you find seems helpful to you, enjoy! Maybe drop me a line and say Hi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Description
+This 3 credit, hybrid studio course teaches the techniques of creating video games from the ground up. Students learn to program, design, prototype and test their own projects and also work in groups. In addition to creating one’s own unique games, students learn video game history, theory, and production, including current trends in digital games and gaming.
 
-### Markdown
+#### This Semester
+The focus will be on prototyping and becoming familiar with Unity, its 2D workflow, game programming/scripting, and iterative design & playtesting practices used to produce 2D digital games.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Next Semester (Advanced 2D Game Design)
+Dig deeper into digital game development with Unity, explore more sophisticated code, discuss more advanced topics such as game feel, software version control, and game AI.
 
-```markdown
-Syntax highlighted code block
+### Course Goals
+- Learn to design, prototype, and distribute 2D games built with Unity.
+- Begin developing game programming skills using C#.
+- Gain experience designing digital games using iterative, player-centric design approaches.
+- Become familiar with early, or otherwise significant, 2D videogames.
 
-# Header 1
-## Header 2
-### Header 3
+### Student Learning Outcomes
+- Students will understand how to build, test, and evaluate 2D digital games using an iterative design approach.
+- Students will  to begin learning to script interactivitity using C#.
+- Students will be able to analyze and discuss the design elements of 2D videogames.
 
-- Bulleted
-- List
+### Software Versions
+This is the software ver used in the demos for this class
+- Unity3D 2021.1.*
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samsheffield/2D_Game_Design/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Weekly Class Notes
+- [Week 1: Welcome, Class Overview, Q&A](week1.md)
