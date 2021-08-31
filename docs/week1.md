@@ -9,7 +9,7 @@ So excited to welcome you all back. In person! Today, we'll meet as a group to..
 
 - Beauty by Richard Feynman ([link](https://www.youtube.com/watch?v=cRmbwczTC6E&t=54s))
 
-__Our next group meeting will be Tuesday, September 14th @ 9AM EST (IN-PERSON)__. 
+__Our next group meeting will be Tuesday, September 7th @ 9AM EST (IN-PERSON)__. 
 
 __Homework__
 - Join the class Discord server ([link](https://discord.gg/5bjj9Pfz)). Set your server nickname to what you want to be called in class and then say hello in the #announcements text channel.
