@@ -5,6 +5,10 @@ So excited to welcome you all back. In person! Today, we'll meet as a group to..
 
 - The Door Problem by Liz England ([link](https://lizengland.com/blog/2014/04/the-door-problem/))
 
+- Admonition by Slyvia Plath ([link](https://allpoetry.com/poem/8498477-Admonition-by-Sylvia-Plath))
+
+- Beauty by Richard Feynman ([link](https://www.youtube.com/watch?v=cRmbwczTC6E&t=54s))
+
 __Our next group meeting will be Tuesday, September 14th @ 9AM EST (IN-PERSON)__. 
 
 __Homework__
