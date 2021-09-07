@@ -29,3 +29,4 @@ This is the software ver used in the demos for this class
 
 ## Weekly Class Notes
 - [Week 1: Welcome, Class Overview, Q&A](week1.md)
+- [Week 2: Unity Wk 1: Editor, Gameobjects, Assets, Builds](week2.md)
