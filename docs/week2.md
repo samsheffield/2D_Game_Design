@@ -40,7 +40,7 @@ Think about the player experience you want to create. *Is it difficult? Disorien
 
 Choose a theme for your level, make some art assets (*these don't need to be pixel art either*), and use the Inspector to replace the sprites of the different Gameobject's *Sprite Renderer Component* with your own. Also, replace the audio clip on *Goal's Audio Source Component* with your own imported one (Kenney.nl is a good place for simple placeholder audio, as is Freesound.org).
 
-__Do not add any code or mechanics.__
+__Do not add any code or mechanics.__ Work with what you've got.
 
 *Build it...*
 
