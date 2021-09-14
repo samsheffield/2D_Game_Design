@@ -1,6 +1,6 @@
 # H I ! !
 Hello everyone!
-- Build testsing
+- Build testing
 - Introduction to scripting/programming/coding for Unity
 
 __Our next group meeting will be Tuesday, September 21st @ 9AM EST (IN-PERSON)__. 
@@ -44,7 +44,9 @@ Think about the player experience you want to create. Is it different from the o
 
 Use the theme from last week, and make additional art assets as needed (*these don't need to be pixel art either*).
 
-Work with the code examples from this week. You can ask me if you need some assistance adding some behavior, but if it's too far beyond what we're currently working with, I'm going to politely say "No". __Searching around online without knowing what you're doing is a massive time sink, so don't do that either.__ Working with what you've got is *the constraint*.
+Work with the code examples from this week. You can ask me if you need some assistance adding some behavior, but if it's too far beyond what we're currently working with, I'm going to politely say "No". 
+
+__Searching around online without knowing what you're doing is a massive time sink, so don't do that either.__ Working with what you've got is *the constraint*.
 
 *Build it...*
 
