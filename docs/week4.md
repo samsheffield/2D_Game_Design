@@ -20,7 +20,6 @@ __Our next group meeting will be Tuesday, September 28th @ 9AM EST (IN-PERSON)__
 
 Unity Week 3 notes are [here](https://docs.google.com/document/d/1EkqUYH_UmSQY7d172gm1MGxuho-rApRkAYrqFm07P5c/edit?usp=sharing)
 
-
 ## Homework ##
 
 __Here's this week's homework__
@@ -32,7 +31,7 @@ __Build on the Unity Demo from class__
 
 Build a *new level* using the things we developed together in class today focused on getting the highest score. Rewriting the scripts from class will reinforce what you've learned and help you identify areas for improvement. Experiment with small changes to the code.
 
-[Here are reference scripts we made in class today](https://drive.google.com/file/d/1IYfGh77x_MLKT4ixuSqTVePuV25AQfw-/view?usp=sharing), just in case the ones you worked on in class are a bit of a mess!
+[Here are reference scripts we made in class today](https://drive.google.com/file/d/1YSGZ1R9pKSO9NNgsuBKIjKCe_YTgH9KR/view?usp=sharing), just in case the ones you worked on in class are a bit of a mess!
 
 *Your new level...*
 
