@@ -32,3 +32,4 @@ This is the software ver used in the demos for this class
 - [Week 2: Unity Wk 1: Editor, Gameobjects, Assets, Builds](week2.md)
 - [Week 3: Unity Wk 2: Intro to code! Basic Input and physics movement](week3.md)
 - [Week 4: Unity Wk 3: Review, communicating between scripts, hiding/unhiding GameObjects, keeping score](week4.md)
+- [Week 5: Early videogames and playing for score. Unity UI Intro](week5.md)
