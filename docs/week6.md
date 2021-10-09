@@ -41,7 +41,7 @@ Choose a theme for your level, make some art assets, choose an appropriate font 
 
 Work with the code examples from this week. You can ask me if you need some assistance adding some behavior, but if it's too far beyond what we're currently working with, I'm going to politely say "No". 
 
-I will add the reference scripts for class [here](), just in case the ones you worked on in class are a bit of a mess! Rewriting the scripts from class will reinforce what you've learned and help you identify areas for improvement. Experiment with small changes to the code.
+I will add the reference scripts for class [here](https://drive.google.com/file/d/1KQ7zFd0JV2wczTja-6YjRIDsfVH2lmup/view?usp=sharing), just in case the ones you worked on in class are a bit of a mess! Rewriting the scripts from class will reinforce what you've learned and help you identify areas for improvement. Experiment with small changes to the code.
 
 __Reminder: Searching around online without knowing what you're doing is probably going to end up being very frustrating.__ Working with what you've got and reach out for help as soon as you can.
 
@@ -51,7 +51,7 @@ Save your Scene often and when you're satisfied, build it! (*File > Build & Run*
 
 __Due next week__
 
-Please upload a build of your game (Mac or PC) to your class Drive folder *before* the start of class. In the zip folder, inlcude a txt file with instructions for playing your game, including the goal.
+Please upload a build of your game (Mac or PC) to your class Drive folder *before* the start of class. In the zip folder, include a txt file with instructions for playing your game, including the goal.
 
 ## Lucas Wooleyhand Talk (Wednesday, 4pm on Zoom)
 Lucas is a Product Manager at Big Huge Games and he will be visiting us online to talk about his experiences so far working in the game industry. It's open to all GMG students, so please attend if you can. Game Design majors/minor have already recieved an email with the link, but I'll post it in Discord for everyone as well.
