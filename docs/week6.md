@@ -41,7 +41,7 @@ Choose a theme for your level, make some art assets, choose an appropriate font 
 
 Work with the code examples from this week. You can ask me if you need some assistance adding some behavior, but if it's too far beyond what we're currently working with, I'm going to politely say "No". 
 
-I will add the reference scripts for class [here](https://drive.google.com/file/d/1KQ7zFd0JV2wczTja-6YjRIDsfVH2lmup/view?usp=sharing), just in case the ones you worked on in class are a bit of a mess! Rewriting the scripts from class will reinforce what you've learned and help you identify areas for improvement. Experiment with small changes to the code.
+__The completed reference scripts for class are [here](https://drive.google.com/file/d/1KQ7zFd0JV2wczTja-6YjRIDsfVH2lmup/view?usp=sharing)__, just in case the ones you worked on in class are a bit of a mess! Rewriting the scripts from class will reinforce what you've learned and help you identify areas for improvement. Experiment with small changes to the code.
 
 __Reminder: Searching around online without knowing what you're doing is probably going to end up being very frustrating.__ Working with what you've got and reach out for help as soon as you can.
 
