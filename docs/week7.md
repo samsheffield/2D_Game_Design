@@ -18,8 +18,8 @@ __Our next group meeting will be Tuesday, Oct 26th @ 9AM EST (IN-PERSON)__.
 Materials for this week:
 - Create an empty Unity project today (we'll use placeholder sprites for our demo)
 - [Here are the completed scripts for this week](https://drive.google.com/file/d/1yycZRWBQZ4pAQTtFdjKsAbdIXnpG1JbX/view?usp=sharing)
-- [__Here are ALL the standalone completed scripts up to this point. All in one place as requested__](https://github.com/samsheffield/2D_Game_Design/tree/Fall_21/Standalone%20Scripts)
-- [Here are the how-to videos for this week](Wednesday or Thursday morning)
+- [* Here are ALL the standalone completed scripts up to this point. All in one place as requested](https://github.com/samsheffield/2D_Game_Design/tree/Fall_21/Standalone%20Scripts)
+- Here are the how-to videos for this week (Wednesday or Thursday morning)
 
 Do you need notes now that we have videos? Let me know.
 
