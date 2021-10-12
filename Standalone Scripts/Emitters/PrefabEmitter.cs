@@ -26,7 +26,7 @@ public class PrefabEmitter : MonoBehaviour
                 GameObject p = Instantiate(prefab, transform.position, transform.rotation);
 
                 // Get its Rigidbody2D component. Make sure it has one.
-                Rigidbody2D prb2d = GetComponent<Rigidbody2D>();
+                Rigidbody2D prb2d = p.GetComponent<Rigidbody2D>();
 
                 // Add force upward times force. Want it to shoot another direction? Rotate the gameobject OR
                 // Experiment with transform.right etc

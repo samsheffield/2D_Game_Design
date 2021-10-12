@@ -17,13 +17,21 @@ public class PlayerAutoEmitter : MonoBehaviour
     
     // Update is called once per frame
     private void Update() {
-        // Check if not already emitting something AND the Fire1 button has been pressed and held down
+        // Check if not already emitting something AND the Fire1 button has been pressed
         // Fire1 refers to Left mouse click and Left Ctrl. Consider changing this to Input.GetKey() to customize
         // Multiple conditions can be tested using && operator. All conditions must be true
-        if(isActive == false && Input.GetButton("Fire1"))
+        if (Input.GetButtonDown("Fire1") && isActive == false)
         {
             StartCoroutine(AutoEmit());
             isActive = true;
+        }
+
+        // Stop all coroutines on this script once button is released and reset isActive to false
+        // Setting isActive to false means that we can use the if() above once again
+        if (Input.GetButtonUp("Fire1"))
+        {
+            StopAllCoroutines();
+            isActive = false;
         }
     }
 
@@ -32,8 +40,9 @@ public class PlayerAutoEmitter : MonoBehaviour
     {
         while(true){
             GameObject p = Instantiate(prefab, transform.position, transform.rotation);
-            Rigidbody2D prb2d = GetComponent<Rigidbody2D>();
-            prb2d.AddForce(transform.up * emitForce);
+            Rigidbody2D prb2d = p.GetComponent<Rigidbody2D>();
+            prb2d.AddForce(transform.up * emitForce, ForceMode2D.Impulse);
+
             yield return new WaitForSeconds(emitRate);
         }
     }

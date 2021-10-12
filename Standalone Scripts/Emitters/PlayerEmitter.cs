@@ -15,7 +15,7 @@ public class PlayerEmitter : MonoBehaviour
         if(Input.GetButton("Fire1"))
         {
             GameObject p = Instantiate(prefab, transform.position, transform.rotation);
-            Rigidbody2D prb2d = GetComponent<Rigidbody2D>();
+            Rigidbody2D prb2d = p.GetComponent<Rigidbody2D>();
             prb2d.AddForce(transform.up * emitForce);
         }
     }

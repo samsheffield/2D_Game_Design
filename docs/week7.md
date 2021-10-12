@@ -1,4 +1,4 @@
-# H E L L O ! !
+# 🍕 H E L L O * A G A I N ! ! 🍕
 Hello everyone!
 - Review (what problems did you encounter?)
 - Unity: Controlling coroutines & emitting projectiles
@@ -17,8 +17,9 @@ __Our next group meeting will be Tuesday, Oct 26th @ 9AM EST (IN-PERSON)__.
 
 Materials for this week:
 - Create an empty Unity project today (we'll use placeholder sprites for our demo)
-- [__Here are the completed scripts for this week__](https://drive.google.com/file/d/1TRDrBHdLw0qQvp0qB81Hi1cs6_AbmN_E/view?usp=sharing)
-- [Here are the how-to videos for this week]()
+- [Here are the completed scripts for this week](https://drive.google.com/file/d/1yycZRWBQZ4pAQTtFdjKsAbdIXnpG1JbX/view?usp=sharing)
+- [__Here are ALL the standalone completed scripts up to this point. All in one place as requested__](https://github.com/samsheffield/2D_Game_Design/tree/Fall_21/Standalone%20Scripts)
+- [Here are the how-to videos for this week](Wednesday or Thursday morning)
 
 Do you need notes now that we have videos? Let me know.
 
@@ -33,7 +34,8 @@ Just like last week, we need 4 vounteers to show a prototype and get some feedba
 
 __FALL BREAK (10/16 - 10/19)__
 
-Take a __break__. Do not do any classwork.
+- Take a __break__. Do not do any classwork.
 
 __Check out Fall Arcade '21__
-Fall Arcade is now up in the Dolphin Gallery on the first floor. Check out some work by current and recent Game Design students, including Dee, Brandon, and Ainsley!
+
+- Fall Arcade is now up in the Dolphin Gallery on the first floor. Check out some work by current and recent Game Design students, including Dee, Brandon, and Ainsley!
