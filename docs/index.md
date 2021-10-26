@@ -33,5 +33,7 @@ This is the software ver used in the demos for this class
 - [Week 3: Unity Wk 2: Intro to code! Basic Input and physics movement](week3.md)
 - [Week 4: Unity Wk 3: Review, communicating between scripts, hiding/unhiding GameObjects, keeping score](week4.md)
 - [Week 5: Early videogames and playing for score. Unity Wk 4: Unity UI Intro](week5.md)
-- [Week 6: Unity Wk 6: Timers, prefabs, and Instantiate](week6.md)
-- [Week 7: Unity Wk 7: Controlling coroutines & creating projectiles](week7.md)
+- [Week 6: Unity Wk 5: Timers, prefabs, and Instantiate](week6.md)
+- [Week 7: Unity Wk 6: Controlling coroutines & creating projectiles](week7.md)
+- [Week 8: Visual Hierarchy & Unity Wk 7: Tilemaps](week8.md)
+
