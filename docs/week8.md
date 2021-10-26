@@ -24,7 +24,7 @@ If you have other specific requests/curiosities *please let me know!*
 
 Materials for this week:
 - Create an empty Unity project today (we'll use placeholder sprites for our demo)
-- [Download this](https://drive.google.com/file/d/1-gLBxvjM-gLC4QadyCc0sHyUjexSG82p/view?usp=sharing) spritesheet to work with this week (Thanks, Kenney.nl!)
+- [Download this](https://drive.google.com/file/d/19tUvhhAr7iboSdzQ2Ccgp3hQEmNSZiVZ/view?usp=sharing) stuff to work with this week (Thanks, Kenney.nl!)
 - [How-to video for this week (tomorrow)]()
 - [Notes for this week](https://docs.google.com/document/d/17K35oRbjn3Y7fw6Eb31wLEpZdqKUwRYs5TJtT9aqvg8/edit?usp=sharing)
 
