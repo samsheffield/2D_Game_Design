@@ -70,6 +70,8 @@ __Spend some time with the Tilemap Editor__
 
 Build a *small scene* based on some aspect(s) of your life that a player explore. Give the player a destination and things to encounter along the way. Add a player control script and experiment with small changes to the code.
 
+__You can complete this homework individually or collaborate with one additional person from class__
+
 *Your small scene...*
 
 The small scene does not need to be a literal 1-to-1 realistic representation of your life. It can be symbolic, metaphorical, a kind of magical realism, a fictional account. It doesn't need to be super revealing or personal, just don't be too neutral in your choices *Hey designer, what exeperience are you designing??*
@@ -92,7 +94,7 @@ Save your Scene often and when you're satisfied, build it! (*File > Build & Run*
 
 __Due next week__
 
-Please upload a __build__ of your game (Mac or PC) to your class Drive folder *before* the start of class. In the zip folder, include a txt file with instructions for playing your game, including the goal.
+Please upload a __build__ of your game (Mac or PC) to your class Drive folder *before* the start of class. In the zip folder, include a txt file with instructions for playing your game, including the goal. If collaborating, add to both team member's Drive folders.
 
 
 ## In Two Weeks: Guest Speaker: Winnie Song (November 10th)
