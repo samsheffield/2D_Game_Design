@@ -37,6 +37,9 @@ This is the software ver used in the demos for this class
 - [Week 7: Unity Wk 6: Controlling coroutines & creating projectiles](week7.md)
 - [Week 8: Visual Hierarchy & Unity Wk 7: Tilemaps](week8.md)
 
+## Example Scripts
+Here are standalone versions of the scripts we've developed in this class: [link](https://github.com/samsheffield/2D_Game_Design/tree/Fall_21/Standalone%20Scripts)
+
 ## Demo Videos
 - Unity 1: Importing sprites, Working with GameObjects, Creating Builds (Soon)
 - [Unity 2: Moving a Rigidbody, Collisions & Triggers](https://youtube.com/playlist?list=PL42xm44H83rLI2rRWbm7zrLMVAhyoKE5O)
