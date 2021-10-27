@@ -37,3 +37,11 @@ This is the software ver used in the demos for this class
 - [Week 7: Unity Wk 6: Controlling coroutines & creating projectiles](week7.md)
 - [Week 8: Visual Hierarchy & Unity Wk 7: Tilemaps](week8.md)
 
+## Demo Videos
+- Unity 1: Importing sprites, Working with GameObjects, Creating Builds (Soon)
+- [Unity 2: Moving a Rigidbody, Collisions & Triggers](https://youtube.com/playlist?list=PL42xm44H83rLI2rRWbm7zrLMVAhyoKE5O)
+- [Unity 3: Scene Switching](https://youtube.com/playlist?list=PL42xm44H83rIlesyEed2uybim8vC7Tz-P)
+- Unity 4: UI Text Intro (Soon)
+- [Unity 5: UnityPackages, Prefabs, Coroutine Intro](https://youtube.com/playlist?list=PL42xm44H83rLVXdTdndqat6n9Rt6yy4t_)
+- [Unity 6: Prefabs,Coroutines, Projectiles](https://youtube.com/playlist?list=PL42xm44H83rIFPczpim73HSmqSEccyGYM)
+- [Unity 7: Tilemap Editor Intro](https://youtube.com/playlist?list=PL42xm44H83rKBw5QPcw4WEnMDNjfbkl8e)
