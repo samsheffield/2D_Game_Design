@@ -8,7 +8,7 @@ public class BackForth : MonoBehaviour
     private float xDirection = 1;
 
     // How fast to move
-    public float xVelocity = 20f;
+    public float xVelocity = 5f;
 
     // Distance to travel before reversing
     public float xDistance = 1f;
@@ -31,11 +31,15 @@ public class BackForth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Check to see if the absolute value of the x position (always positive) is greater than the distance from the start
-        if(Mathf.Abs(transform.position.x) >= startX + xDistance)
+        // Check to see if x position is greater than the distance from the start
+        if(transform.position.x > startX + xDistance)
         {
-            // If so, change direction
-            xDirection = xDirection * -1;
+            // If so, go left
+            xDirection = -1;
+        }
+        else if(transform.position.x < startX - xDistance){
+            // Check to see if x position is less than the distance from the start and go right
+            xDirection = 1;
         }
     }
 
