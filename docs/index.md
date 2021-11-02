@@ -36,6 +36,7 @@ This is the software ver used in the demos for this class
 - [Week 6: Unity Wk 5: Timers, prefabs, and Instantiate](week6.md)
 - [Week 7: Unity Wk 6: Controlling coroutines & creating projectiles](week7.md)
 - [Week 8: Visual Hierarchy & Unity Wk 7: Tilemaps](week8.md)
+- [Week 9: Unity Wk 8: Player Interactions, Movement, World UI](week9.md)
 
 ## Example Scripts
 Here are standalone versions of the scripts we've developed in this class: [link](https://github.com/samsheffield/2D_Game_Design/tree/Fall_21/Standalone%20Scripts)
