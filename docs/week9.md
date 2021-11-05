@@ -23,7 +23,7 @@ Materials for this week:
 - Create an empty Unity project today (we'll use placeholder sprites for our demo)
 - [Download this](https://drive.google.com/file/d/19tUvhhAr7iboSdzQ2Ccgp3hQEmNSZiVZ/view?usp=sharing) stuff to work with or use the tilemap sprites from last week (Thanks, Kenney.nl!)
 - [Completed scripts for this week](https://drive.google.com/file/d/12vqUSt1piUuhgGkXEVLYGKJmgqfOLwrI/view?usp=sharing)
-- __How-to video for this week (Thursday)__
+- [How-to video for this week](https://youtube.com/playlist?list=PL42xm44H83rLKQsApQcF6OnMvhJcdsTRo)
 
 ## Prototype Share ##
 
