@@ -48,14 +48,15 @@ This week:
 
 __Here's this week's homework__
 
-## A (More or Less) Familiar Scene
-__Expand upon the homework from this past week__
+## Animator Experiemnts
 
-Experiment with adding more elements to interact with in your game using the techniques we covered in class today (SetActive, Triggering, World Space UI). *What do these interactions reveal to the player?*
+__This week's homework is very *technical*.__ 
 
-Experiment with movement. *Does your player movement change? Are there things in your scene which move? Why?*
-
-Do you need some additional functionality? *Let me know!*
+You don't need to make a game, just a scene to test out some different approaches to animation we explored in class today:
+- A constantly looping animation
+- A one shot animation that runs on an instantiated prfab or is triggered by code
+- An animation that is started (and stopped, if you like) by interacting with a different gameobject
+- A player movement animation controlled by code
 
 *Build it...*
 
@@ -65,11 +66,5 @@ __Due next week__
 
 Please upload a __build__ of your game (Mac or PC) to your class Drive folder *before* the start of class. In the zip folder, include a txt file with instructions for playing your game, including the goal. If collaborating, add to both team member's Drive folders.
 
-
-## Next Week
-- Early 2D games: Home Consoles
-- Take a look at your recent prototypes
-- Unity's Animator Intro
-
-## Next Wednesday: Guest Speaker: Winnie Song (November 10th)
-We're excited to have Winnie Song (BADBLOOD, former Square Enix) join us on Wednesday, Nov. 10th at 4:30pm to talk about [her work](https://wsong.me). She'll be giving the talk on twitch.tv/micagamelab. Please mark your calendars.
+## Wednesday: Guest Speaker: Winnie Song (November 10th)
+We're excited to have Winnie Song (BADBLOOD, former Square Enix) join us on Wednesday, Nov. 10th at 4:30pm to talk about [her work](https://wsong.me). She'll be giving the talk on twitch.tv/micagamelab. We'll record the talk but please attend if you can!
