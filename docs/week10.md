@@ -20,16 +20,8 @@ __Our next group meeting will be Tuesday, Nov 9th @ 9AM EST (IN-PERSON)__.
 Materials for this week:
 - Create an empty Unity project today (we'll use placeholder sprites for our demo)
 - Download [this stuff](https://drive.google.com/file/d/1ymfEv70jEJFP8p_ph3gIxLRaYl_SkGqP/view?usp=sharing) for today's demo (Thanks again, Kenney.nl!)
-- Completed scripts for this week *- Uploaded by Wednesday!*
+- [Completed scripts for this week](https://drive.google.com/file/d/1a11MQ7qqrdzZXPxmGIw3T6Wy9CJj1Bi3/view?usp=sharing)
 - How-to video for this week *- Uploaded by Thursday!*
-
-## Prototype Share ##
-
-We need some vounteers to show a prototype and get some feedback.
-- Anything from the past two homework assignments
-- Different volunteers than last session (*ideally*)
-- You pick who plays your game (_even me!_)
-
 
 ## Midterm Meetings (Continued) ##
 
@@ -48,7 +40,7 @@ This week:
 
 __Here's this week's homework__
 
-## Animator Experiemnts
+## Animator Experiments
 
 __This week's homework is very *technical*.__ 
 

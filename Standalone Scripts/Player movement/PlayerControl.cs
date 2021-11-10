@@ -4,12 +4,15 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
-
     // Variables which can be modified in the Inspector
-    public float speed = 7;
+    public float speed = 3;
 
-    // Variables used only within this script
-    private Vector2 direction;
+    // Private variables used only within this script
+
+    // THIS IS AN UPDATED SCRIPT: direction is now public so it can be accessed by other scripts
+    // HideInInspector will hide the variable below it from appearing in the Inspector
+    [HideInInspector]
+    public Vector2 direction;
     private Rigidbody2D rb2d;
 
     private void Start()
