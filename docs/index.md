@@ -51,3 +51,4 @@ Here are standalone versions of the scripts we've developed in this class: [link
 - [Unity 6: Prefabs,Coroutines, Projectiles](https://youtube.com/playlist?list=PL42xm44H83rIFPczpim73HSmqSEccyGYM)
 - [Unity 7: Tilemap Editor Intro](https://youtu.be/HI_ikASAn0g)
 - [Unity 8: Player Interactions & Steering Control](https://youtube.com/playlist?list=PL42xm44H83rLKQsApQcF6OnMvhJcdsTRo)
+- [Unity 9: Animator Intro](https://youtube.com/playlist?list=PL42xm44H83rLB0LLuXiQGSuXdk1qarSTe)
