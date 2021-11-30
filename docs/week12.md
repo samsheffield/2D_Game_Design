@@ -70,8 +70,9 @@ Tested builds for Mac and PC. Linkjs will be posted on the class Discord.
 - 12/07: Playtest first prototype. Work session
 - 12/14: Project due for final playtesting
 
-### Brainstorming
 
+## After Lunch
+### Brainstorming
 
 Here's the plan:
 - Share your ideas with your group (All ideas are valid, but not each will be chosen (don’t take it personally)
@@ -82,14 +83,7 @@ Here's the plan:
 - What are good game precedents?
 - __Come up with a quick pitch (two to three sentences which descibes your idea using compelling language) to share with class__
 
-## After Lunch
 
-### Let's take a look at your recent work
-
-Here's a good opportunity to show off work and get some feedback from the class.
-- Anything from the past few weeks
-- New volunteers are always appreciated/encouraged
-- You pick who plays your game (_even me!_)
 
 ## Homework ##
 
