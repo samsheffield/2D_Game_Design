@@ -39,6 +39,7 @@ This is the software ver used in the demos for this class
 - [Week 9: Unity Wk 8: Player Interactions, Movement, World UI](week9.md)
 - [Week 10: Unity Wk 9: Animator Intro!](week10.md)
 - [Week 11: Unity Wk 10: Passing things between scenes and Animation Events](week11.md)
+- [Week 12: Unity Wk 11: Cameras! Final Project!](week12.md)
 
 ## Example Scripts
 Here are standalone versions of the scripts we've developed in this class: [link](https://github.com/samsheffield/2D_Game_Design/tree/Fall_21/Standalone%20Scripts)
@@ -54,3 +55,4 @@ Here are standalone versions of the scripts we've developed in this class: [link
 - [Unity 8: Player Interactions & Steering Control](https://youtube.com/playlist?list=PL42xm44H83rLKQsApQcF6OnMvhJcdsTRo)
 - [Unity 9: Animator Intro](https://youtube.com/playlist?list=PL42xm44H83rLB0LLuXiQGSuXdk1qarSTe)
 - [Unity 10: Passing things between scenes with PlayerPrefs & DontDestroyOnLoad. Animation Events & Functions](https://youtube.com/playlist?list=PL42xm44H83rIUwUfS1TUgAZR5sAE8pXRk)
+- [Unity 11: Cameras](https://youtube.com/playlist?list=PL42xm44H83rJW_YOgQw6aEb5M9qjDBgpZ)
