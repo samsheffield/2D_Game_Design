@@ -11,7 +11,7 @@ __Our next group meeting will be Tuesday, Dec 7th @ 9AM EST (IN-PERSON)__.
 
 ## Cameras!
 - Even simple games often have surprisingly complex cameras: [Super Mario World Camera Logic Analysis](https://www.youtube.com/watch?v=TCIMPYM0AQg)
-- Itay Keren's exhaustive classification of cameras in just 2D Side Scrollers: [Wow!](https://www.youtube.com/watch?v=TCIMPYM0AQg)
+- Itay Keren's exhaustive classification of cameras in just 2D Side Scrollers: [Wow!](https://www.youtube.com/watch?v=pdvCO97jOQk&t=1850s)
 
 ## Unity 11 Materials ##
 
