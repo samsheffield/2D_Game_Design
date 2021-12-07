@@ -40,6 +40,7 @@ This is the software ver used in the demos for this class
 - [Week 10: Unity Wk 9: Animator Intro!](week10.md)
 - [Week 11: Unity Wk 10: Passing things between scenes and Animation Events](week11.md)
 - [Week 12: Unity Wk 11: Cameras! Final Project!](week12.md)
+- [Week 13: Unity Wk 12: Playtesting and building for others](week13.md)
 
 ## Example Scripts
 Here are standalone versions of the scripts we've developed in this class: [link](https://github.com/samsheffield/2D_Game_Design/tree/Fall_21/Standalone%20Scripts)
@@ -56,3 +57,4 @@ Here are standalone versions of the scripts we've developed in this class: [link
 - [Unity 9: Animator Intro](https://youtube.com/playlist?list=PL42xm44H83rLB0LLuXiQGSuXdk1qarSTe)
 - [Unity 10: Passing things between scenes with PlayerPrefs & DontDestroyOnLoad. Animation Events & Functions](https://youtube.com/playlist?list=PL42xm44H83rIUwUfS1TUgAZR5sAE8pXRk)
 - [Unity 11: Cameras](https://youtube.com/playlist?list=PL42xm44H83rJW_YOgQw6aEb5M9qjDBgpZ)
+- [Unity 12: Building for other platforms](https://youtu.be/Dg6FV7g6uLw)
