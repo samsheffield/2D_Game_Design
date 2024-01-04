@@ -60,3 +60,7 @@ crashlytics-build.properties
 
 # Mac
 .DS_Store
+
+# Sam
+old_docs/
+notes/
