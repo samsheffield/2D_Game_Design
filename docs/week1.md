@@ -123,11 +123,11 @@ A camera's properties are adjusted in the Inspector.
 - Say hi and post a picture in the #intro-to-unity-2d channel
 
 ## Get ready for the semester
-- [ ] Do you have room on your laptop's hard drive?
-- [ ] Do you have an external hard drive?
-- [ ] Do you have storage space on your MICA Google Drive?
-- [ ] Do you have a 3 button mouse?
-- [ ] Optional: Do you want to purchase the textbook?
+- Do you have room on your laptop's hard drive?
+- Do you have an external hard drive?
+- Do you have storage space on your MICA Google Drive?
+- Do you have a 3 button mouse?
+- Optional: Do you want to purchase the textbook?
 
 ## Install Unity Hub on your computer(s)
 If you have another computer at home that you want to use for classwork, go ahead and install it there this weekend. Or, if you didn't have your laptop this evening, be sure to install Unity before next class.
@@ -136,7 +136,7 @@ If you have another computer at home that you want to use for classwork, go ahea
 - Be sure to install Visual Studio (or Visual Studio for Mac).
 - If you are on Windows: add build support for Mac. If you are on Mac: add build support for Windows.
 
-## Unity pre-study: First Steps
+## Unity: First Steps
 To deepen our hands-on investigation of the Editor this evening, please review the following sections of the Unity manual:
 - [Unity's interface](https://docs.unity3d.com/Manual/UsingTheEditor.html)
 - [The Toolbar](https://docs.unity3d.com/Manual/Toolbar.html)
@@ -144,10 +144,22 @@ To deepen our hands-on investigation of the Editor this evening, please review t
 - [The Hierarchy window](https://docs.unity3d.com/Manual/Hierarchy.html)
 - [The Inspector window: Working in the Inspector](https://docs.unity3d.com/Manual/UsingTheInspector.html)
 
-And this, in preparation to bring in our own images next week:
+And this, in preparation of bringing in our own images:
 - [Importing Assets](https://docs.unity3d.com/Manual/ImportingAssets.html)
 - [Set up sprites](https://docs.unity3d.com/Manual/sprites-setup.html)
-- For your reference: [Properties of sprites in Unity](https://docs.unity3d.com/Manual/texture-type-sprite.html)
+- For your reference: [Properties of Sprites in Unity](https://docs.unity3d.com/Manual/texture-type-sprite.html)
+
+### Exercise 1:
+While reading these references, I want you to do the following:
+1. Create a new Unity project using the core 2D template
+2. Create a new Scene, name it TestScene, and switch to it in Unity.
+3. Make the background color of the Main Camera red using the Background property of its Camera component.
+4. Outside of Unity, create an image (exported as a png or psd) that is 128px x 128px.
+5. Import the image (which we'll call a Sprite) into Unity following the Importing Assets and Set up Sprites instructions above.
+6. Add the imported sprite to the Scene by dragging it from the Assets folder in the Project window to the Hierarchy or Scene View.
+7. Position the sprite in the Scene View at the following Transform coordinates: X: -12 Y: 1 Z: 0 (do this either by dragging the GameObject or setting the values directly in the GameObject's Transform Component).
+ 
+You do not need to submit this to Canvas. We will check it at the beginning of class in-person next week.
 
 ## Optional: Sign up for the Global Game Jam!
 Global Game Jam (GGJ) is coming up soon (Jan 26-28th). This is a great opportunity to warm up, finish a small game for your portfolio, work with new people/work with old friends/work by yourself, and have fun! **Don't worry if you've never made a game before, you have so many skills to contribute to a team.**
