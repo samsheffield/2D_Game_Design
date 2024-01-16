@@ -136,7 +136,7 @@ If you have another computer at home that you want to use for classwork, go ahea
 - Be sure to install Visual Studio (or Visual Studio for Mac).
 - If you are on Windows: add build support for Mac. If you are on Mac: add build support for Windows.
 
-## Unity: First Steps
+## Unity pre-study: First Steps
 To deepen our hands-on investigation of the Editor this evening, please review the following sections of the Unity manual:
 - [Unity's interface](https://docs.unity3d.com/Manual/UsingTheEditor.html)
 - [The Toolbar](https://docs.unity3d.com/Manual/Toolbar.html)
@@ -144,10 +144,10 @@ To deepen our hands-on investigation of the Editor this evening, please review t
 - [The Hierarchy window](https://docs.unity3d.com/Manual/Hierarchy.html)
 - [The Inspector window: Working in the Inspector](https://docs.unity3d.com/Manual/UsingTheInspector.html)
 
-And this, in preparation to bring in our own images:
+And this, in preparation to bring in our own images next week:
 - [Importing Assets](https://docs.unity3d.com/Manual/ImportingAssets.html)
 - [Set up sprites](https://docs.unity3d.com/Manual/sprites-setup.html)
-- For your reference: [](https://docs.unity3d.com/Manual/texture-type-sprite.html)
+- For your reference: [Properties of sprites in Unity](https://docs.unity3d.com/Manual/texture-type-sprite.html)
 
 ## Optional: Sign up for the Global Game Jam!
 Global Game Jam (GGJ) is coming up soon (Jan 26-28th). This is a great opportunity to warm up, finish a small game for your portfolio, work with new people/work with old friends/work by yourself, and have fun! **Don't worry if you've never made a game before, you have so many skills to contribute to a team.**
