@@ -72,7 +72,7 @@ What are some core mechanics of games that you can identify? What makes them imp
 This week you'll begin a small game prototype that you'll work on over the next two weeks for homework. This exercise is intended to help you learn some basic C# scripting and Unity game development practices.
 
 ### Overview:
-For this exercise, you will prototype a simple game in which a player moves towards a goal while avoiding some kind of conflict. You will design the conflict and level architecture to somehow complicate the player's ability to reach the goal in a fun and engaging way.
+For this exercise, you will prototype a simple game in which a player moves towards a goal while navigating . Next week you will add some form of conflict to the level architecture which somehow complicates the player's ability to reach the goal in a fun and engaging way.
 
 Your player will have a simple movement mechanic that you design using a combination of keyboard input and Rigidbody2D physics. 
 
@@ -81,7 +81,7 @@ _Experiment. Treat it like a toy. It doesn't need to be complicated to be fun._
 Try to come up with something that feels satisfying to you in combination with your simple conflict and level architecture.
 
 #### For this week (Week 2):
-Get your player moving around using keyboard input, set up your goal, your sources of conflict, and design a little level using placeholder sprites that help
+Get your player moving around using keyboard input, set up your goal, and design a little level using placeholder sprites that help
 
 #### Important:
 You are not expected to use anything more complex than what we do in class over the next two weeks. __Please do not begin searching around online for code to use for this exercise.__ You will almost certainly end up confusing things and in a frustrating place.
@@ -115,15 +115,6 @@ You are not expected to use anything more complex than what we do in class over 
     - Create and add a C# script called GoalBehavior added as a Component.
     - Write code in GoalBehavior that uses OnTriggerEnter2D to Destroy itself (gameObject).
 
-- _Conflict_ GameObject setup:
-    - Name this Conflict in the Hierarchy.
-    - Use an imported sprite that represents the conflict.
-    - Set Sprite Renderer's Order in Layer property set to 1.
-    - Add a Collider 2D component (Choose from Box, Circle, or Polygon).
-    - Set the Collider's Is Trigger property set to True (the box is checked).
-    - Create and add a C# script called ConflictBehavior as a Component.
-    - Write code in ConflictBehavior uses OnTriggerEnter2D to Destroy the Player (collision.gameObject).
-
 - _Level architecture_ GameObjects setup:
     - Use placeholder sprites created in the Hierarchy (Right click in Hierarchy > 2D Object > Sprites > Anything _except_ 9-Slice)
     - Include a Collider 2D Component (which will be created with it).
@@ -132,7 +123,7 @@ You are not expected to use anything more complex than what we do in class over 
     
 
 #### Important:
-__Do not submit this assignment to Canvas this week.__ Next week you will continue to develop this assignment for homework and turn it in on February 6th. 
+Do not submit this assignment to Canvas until February 6th. Next week, we will take a look at this week's assigned goals while you continue to develop the assignment for homework. 
 
 _We will take a look at this homework in class next week._
 
