@@ -66,13 +66,15 @@ Of all these activities, the most consequential are the activities which a playe
 
 ### Identifying core game mechanics
 What are some core mechanics of games that you can identify? What makes them important to the experience of playing that game?
+
+
 # Homework
 
 ## Exercise 2: Unity, Let's Go!
 This week you'll begin a small game prototype that you'll work on over the next two weeks for homework. This exercise is intended to help you learn some basic C# scripting and Unity game development practices.
 
 ### Overview:
-For this exercise, you will prototype a simple game in which a player moves towards a goal while navigating . Next week you will add some form of conflict to the level architecture which somehow complicates the player's ability to reach the goal in a fun and engaging way.
+For this exercise, you will prototype a simple game in which a player moves towards a goal while navigating a level. Next week you will add some form of conflict to the level architecture which somehow complicates the player's ability to reach the goal in a fun and engaging way.
 
 Your player will have a simple movement mechanic that you design using a combination of keyboard input and Rigidbody2D physics. 
 
@@ -81,7 +83,7 @@ _Experiment. Treat it like a toy. It doesn't need to be complicated to be fun._
 Try to come up with something that feels satisfying to you in combination with your simple conflict and level architecture.
 
 #### For this week (Week 2):
-Get your player moving around using keyboard input, set up your goal, and design a little level using placeholder sprites that help
+Get your player moving around using keyboard input, set up your goal, and design a little level using placeholder sprites.
 
 #### Important:
 You are not expected to use anything more complex than what we do in class over the next two weeks. __Please do not begin searching around online for code to use for this exercise.__ You will almost certainly end up confusing things and in a frustrating place.
