@@ -1,9 +1,9 @@
 # Week 3
 Hello again Today, we'll meet as a group to...
 - Review last week's Unity and C#
-- Start programming with C#
 - Move a player, create a goal, add some conflict (basic game design stuff)
-- Import 2D images (sprites) into Unity
+- Understanding collision types
+- Scene Management: How to load and reload scenes
 - What are game mechanics anyways?
 - Defining player experience goals
 
