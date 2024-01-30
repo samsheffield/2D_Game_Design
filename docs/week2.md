@@ -55,17 +55,7 @@ Today we'll discuss:
 - Conditional logic: creating cause and effect
 - Destroying a GameObject
 
-[Today's class notes will be uploaded here before the end of day on Wednesday](#). 
-
----
-
-## What is a game mechanic?
-Mechanics in a game are all of the activities which a player can do. They are central to a player's experience in most games. Common game mechanics include things like jumping, shooting, flying, collecting, crafting, healing, etc.
-
-Of all these activities, the most consequential are the activities which a player performs most frequently. These are referred to as core mechanics. They are so central to the design of a game, that without them, you wouldn't be able play the game at all.
-
-### Identifying core game mechanics
-What are some core mechanics of games that you can identify? What makes them important to the experience of playing that game?
+[Today's class notes are here](https://youtu.be/NGUQVAYJoqg). 
 
 
 # Homework
