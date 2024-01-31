@@ -27,8 +27,9 @@ Today we'll discuss:
 - Using GameObject Tags
 - Loading and restarting scenes
 
+[Demo notes are available here](https://docs.google.com/document/d/1Qryjjy8GaO3JUxrt5-1-3oOFQfl-aYhOdhi3S5sL42E/edit?usp=sharing)
 
-[Today's class notes will be uploaded here by Thursday morning](#). 
+[A video of today's demo will be uploaded here by Thursday morning](#). 
 
 ---
 
