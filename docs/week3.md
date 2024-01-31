@@ -101,7 +101,7 @@ You are not expected to use anything more complex than what we do in class for t
 
 - _End_ Scene setup:
     - Create a new Scene and name it End (make sure you are working in this scene!)
-    - Add a background image to serve as a Start screen for your game. This image should also indicate instructions for your game and the key to press to start it. Make this image exactly 1920 x 1200px (this will fit a 16:10 display so keep in mind that 60px on top and bottom will be cut off on 16:9 displays).
+    - Add a background image to serve as a End screen for your game. This image should also indicate instructions for your game and the key to press to start it. Make this image exactly 1920 x 1200px (this will fit a 16:10 display so keep in mind that 60px on top and bottom will be cut off on 16:9 displays).
     - Change the Main Camera's Size property so that its width of its viewport matches the width of the background image.
     - Create an empty GameObject in the scene and name it EndManager.
 
