@@ -11,3 +11,4 @@ This 3 credit, in-person studio course teaches the techniques of creating video 
 - [Week 1: Welcome, Class Overview, Q&A. Installing Unity](week1.md)
 - [Week 2: Intro to C# scripting. Unity workflow basics. Creating movement and conflict. What's a mechanic?](week2.md)
 - [Week 3: Collisions, conditional logic, and changing scenes. Defining player experience goals.](week3.md)
+- [Week 4: Intro to the Animator, more player input, playing sound effects, prefabs, making builds. Where do video games come from?](week4.md)
