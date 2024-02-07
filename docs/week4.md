@@ -33,12 +33,17 @@ Pull up your projects from homework. Hannah and I will go around and check your 
 # Homework
 
 ## Exercise 3: Keep Moving!
-This week you'll begin a small game prototype that you'll work on over the next two weeks for homework. In addition to continue developing his exercise is intended to give you some experience working with the animator, prefabs, and audio clips.
+This week you'll begin a small game prototype that you'll work on over the next two weeks for homework. In addition to continue developing game programming skills, this exercise is intended to give you some experience working with the animator, prefabs, and audio clips.
 
 ### Overview:
 For this exercise, you will prototype a simple game in which a player must collect a small number of items before time runs out. This activity will be complicated in a fun way by various moving obstacles in the level.
 
 ### For this week (Week 4):
+1. Create a new Project file
+    - Name the project Second_Game.
+    - __Do not work on the Week4Demo project we started in class__. Use it as a reference.
+
+
 1. Create Prefabs of two different GameObjects.
     - One is an obstacle/source of conflict, the other is a collectible item.
     - Each has a looping property (movement, scaling, or rotation) controlled by animation.
@@ -66,7 +71,9 @@ __Reminder: Please do not use unlicensed artwork in your classwork (no matter ho
 ### This week's technical goals:
 - Use folders to organize your assets (Scripts, Prefabs, Sprites, and Scenes).
 - Name your assets the Project pane and GameObjects in Scene using PascalCase.
+- Use on of the GetAxis methods to get player input.
 - Create a triggered collision between the player and two other types of gameobjects.
+- Import a sound and play it using AudioSource.PlayClipAtPoint()
 
 ### You will turn this in on February 20th:
 Do not submit this assignment to Canvas until February 20th. Next week you will continue to develop the assignment for homework.
