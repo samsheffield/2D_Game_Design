@@ -28,7 +28,7 @@ Pull up your projects from homework. Hannah and I will go around and check your 
 - [Here are some assets](https://drive.google.com/file/d/1onxp0kVKR4rcNcvdc4ore9a51cq3_sCK/view?usp=sharing) to use for today's demo. These come from [here](https://kenney.nl/assets/pixel-platformer) and [here](https://sfxr.me/).
 - Today's class notes are [here](https://docs.google.com/document/d/1BNluap4vDKJcnzkxuHk_-zzu1P5IxhdzW4bZmiXsk7w/edit?usp=sharing). 
 
-- A video of today's demo will be available here by Thursday morning. 
+- Videos of today's demos are available [here](https://youtube.com/playlist?list=PL42xm44H83rL4NzR4ieKJf5YcZEcqMrZU&si=Adp-_6Mgc7QlNrSg). 
 
 # Homework
 
