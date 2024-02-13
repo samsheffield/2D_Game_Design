@@ -44,23 +44,23 @@ For this exercise, you will prototype a simple game in which a player must colle
     - __Do not work on the Week4Demo project we started in class__. Use it as a reference.
 
 
-1. Create Prefabs of two different GameObjects.
+2. Create Prefabs of two different GameObjects.
     - One is an obstacle/source of conflict, the other is a collectible item.
     - Each has a looping property (movement, scaling, or rotation) controlled by animation.
     - Each has looping sprite-based animation.
     - Both are contained in an empty GameObject so that it can be repositioned in the Scene.
     - Each are set up with colliders and scripts so that they play a sound and are either destroyed or destroy the player using OnTriggerEnter2D.
 
-2. Add a Player GameObject
+3. Add a Player GameObject
     - Use either Input. GetAxis() or Input.GetAxisRaw() for controlling input
     - Optional: add an idle animation for the player.
 
-3. Come up with a theme for your game
+4. Come up with a theme for your game
     - Who is the player?
     - What is their goal?
     - Where are they?
 
-4. Create on Player Experience Goal for you players
+5. Create a Player Experience Goal for you players
     - What do you want your players to experience when playing your game?
     - Write it down somewhere.
 
