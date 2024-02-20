@@ -1,4 +1,4 @@
-# Week 4
+# Week 5
 Hello again! Today, we'll meet as a group to...
 - Review homework
 - Randomize starting frame for animation clips
@@ -28,7 +28,7 @@ _Having trouble with classwork? Need to review?_ Please set up some time to meet
 #### Demo Materials
 - Here are a few C# scripts to get us started this evening ([link](https://drive.google.com/file/d/1Z1wiFvey1p2An1kTQVK14sokEfxk83Wn/view?usp=sharing))
 - Written notes can be found [here](https://docs.google.com/document/d/1EN-1N-adMyjwTyIo-eD6kpBYPLBdI8f5boTNsjWHmH8/edit?usp=sharing).
-- A video of today's demos will be uploaded by Thursday morning.
+- Videos of today's demos are available [here](https://youtube.com/playlist?list=PL42xm44H83rL4NzR4ieKJf5YcZEcqMrZU&si=Adp-_6Mgc7QlNrSg). 
 
 
 # Homework
