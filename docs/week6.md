@@ -3,7 +3,6 @@ Hello again! Today, we'll meet as a group to...
 - Review homework
 - Working with Prefabs (2/2)
 - Animation Events
-- Play some arcade and arcade-inspired games
 - Start Project 1
 
 ---
@@ -31,22 +30,19 @@ _Having trouble with classwork? Need to review?_ Please set up some time to meet
 
 #### Demo Materials
 - Here are some materials to get us started this evening ([link](https://drive.google.com/file/d/1WA1goM2RDu7FujYpra_adBrSA_OZx8Wj/view?usp=sharing)).
-- Videos of today's demos will be uploaded by Thursday morning.
+- Videos of today's demos are available [here](https://youtube.com/playlist?list=PL42xm44H83rL4NzR4ieKJf5YcZEcqMrZU&si=Adp-_6Mgc7QlNrSg). 
 
-
-## Play arcade games
-After dinner: Let's play a selection of emulated araced games.
 
 ## Midterm Project: RETRO SHOCK (Due March 5th)
-_"I FOUND IT! Hurry!", yells your friend. You scramble through one last pile of boxes, and arrive just in time to see your friend pull back the dusty tarp from the large rectangular object.
+_"I FOUND IT! Hurry!", yells your friend. You scramble through one last pile of boxes, and arrive just in time to see your friend pull back the dusty tarp from the large rectangular object._
 
-"That's it?!", says your friend, staring at the old arcade machine. They're not particularly impressed by the relatively plain 80's style retro graphics or the large metallic letters spelling out RETRO SHOCK:  X GAMES, 1 LIFE on the marquee. To you, however, the text seems oddly menacing. Almost like a warning. 
+_"That's it?!", says your friend, staring at the old arcade machine. They're not particularly impressed by the relatively plain 80's style retro graphics or the large metallic letters spelling out RETRO SHOCK:  X GAMES, 1 LIFE on the marquee. To you, however, the text seems oddly menacing. Almost like a warning._
 
-"I heard that this was really popular once, but they suddenly had to remove all the machines from arcades under mysterious circumstances. Probably just another urban legend. Anyhow, the games were supposed to be pretty fun. LET'S CHECK THEM OUT!!!!" 
+_"I heard that this was really popular once, but they suddenly had to remove all the machines from arcades under mysterious circumstances. Probably just another urban legend. Anyhow, the games were supposed to be pretty fun. LET'S CHECK THEM OUT!!!!"_ 
 
-You hesitate, but before you can raise an objection you already hear the fuzzy buzzing of the old CRT display powering on.
+_You hesitate, but before you can raise an objection you already hear the fuzzy buzzing of the old CRT display powering on._
 
-"WHOA!"_
+_"WHOA!"_
 
 For the midterm project, you will develop a small score-based game for a fictional, alt-reality arcade machine called RETRO SHOCK. __You will use the skills you’ve been developing over the first part of the semester to create a game consisting of 2 unique levels, with Start and Game Over screens.__ While the game’s mechanics will take inspiration from classic video games, it does not need to look like a classic video game (let’s assume these are artifacts from an alternative reality where the graphical power is equivalent to what we can do in 2024!)
 
@@ -100,4 +96,4 @@ Homework: Play games and leave feedback (before or after Spring Break).
 ## Project 1
 Begin working on Project 1. Focus on coming up with a concept and getting things set up in Unity. Our goal is to have something playable in class next week, so be sure to reach out for help if you need it ASAP!
 
-As mentioned above, do not ocus on developing art assets this week _unless_ you are working with a partner.
+As mentioned above, do not focus on developing art assets this week _unless_ you are working with a partner.
