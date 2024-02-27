@@ -29,8 +29,13 @@ _Having trouble with classwork? Need to review?_ Please set up some time to meet
 - Creating a WebGL build
 
 #### Demo Materials
-- Here are some materials to get us started this evening ([link]()).
+- Here are some materials to get us started this evening ([link](https://drive.google.com/file/d/1M9wV6STXb9ZuWad1yvA9d8yacto98lAv/view?usp=sharing)).
 - Videos of today's demos will be uploaded by Thursday morning.
+
+## Audio assets
+Here are a couple of good places to find royalty free audio for your games.
+- [JSFXR - Online sound effects generator](https://sfxr.me/)
+- [Kevin McCleod/Incompetech](https://incompetech.com/music/royalty-free/music.html)
 
 
 ## Play arcade games
@@ -75,4 +80,4 @@ Homework: Play games and leave feedback (before or after Spring Break).
 # Homework
 
 ## Project 1
-Finish working on Project 1. All games will need to have WebGL and desktop builds after dinner next week. You will have some time to work and get help during the first half of class, but definitely reach out beforehand if you need some assistance. 
+Finish working on Project 1. All games will need to have WebGL and desktop builds after dinner next week (we'll cover this in class). You will have some time to work and get help during the first half of class, but definitely reach out beforehand if you need some assistance. 
