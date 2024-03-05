@@ -1,10 +1,9 @@
-# Week 6
+# Week 7
 Hello again! Today, we'll meet as a group to...
 - Review homework
 - Working with Prefabs (2/2)
 - Animation Events
-- Play some arcade and arcade-inspired games
-- Start Project 1
+- Continue Project 1
 
 ---
 
@@ -30,16 +29,12 @@ _Having trouble with classwork? Need to review?_ Please set up some time to meet
 
 #### Demo Materials
 - Here are some materials to get us started this evening ([link](https://drive.google.com/file/d/1M9wV6STXb9ZuWad1yvA9d8yacto98lAv/view?usp=sharing)).
-- Videos of today's demos will be uploaded by Thursday morning.
 
 ## Audio assets
 Here are a couple of good places to find royalty free audio for your games.
 - [JSFXR - Online sound effects generator](https://sfxr.me/)
 - [Kevin McCleod/Incompetech](https://incompetech.com/music/royalty-free/music.html)
 
-
-## Play arcade games
-After dinner: Let's play a selection of emulated araced games.
 
 ## Midterm Project: RETRO SHOCK (Due NEXT WEEK March 5th)
 
@@ -74,7 +69,6 @@ Homework: Implement art and sound assets and finish your game.
 - After dinner: Projects due (uploaded to itch.io and URL shared on Canvas)
 
 Homework: Play games and leave feedback (before or after Spring Break).
-
 
 
 # Homework
