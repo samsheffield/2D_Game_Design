@@ -15,4 +15,4 @@ This 3 credit, in-person studio course teaches the techniques of creating video 
 - [Week 5: Timers, Commmunication between GameObjects, Intro to UI (1/2)](week5.md)
 - [Week 6: Instantiating prefabs, projectiles. Begin Project 1](week6.md)
 - [Week 7: Background music, Playerprefs. Continue Project 1](week7.md)
-[Week 8: Creating WebGL builds, uploading to itch.io. Playtesting](week8.md)
+- [Week 8: Creating WebGL builds, uploading to itch.io. Playtesting](week8.md)
