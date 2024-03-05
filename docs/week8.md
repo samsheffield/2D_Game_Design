@@ -38,6 +38,9 @@ I need the URL to your zipped Unity project folder:
 - Name the zip file yourname_midtermproject_2d.
 - Include a file called readme.txt somewhere in the zip file which credits any assets you might use.
 
+I also need the URL to your itch.io page.
+- Please don't forget!
+
 
 # Homework
 
