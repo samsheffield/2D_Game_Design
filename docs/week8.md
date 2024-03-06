@@ -18,6 +18,9 @@ _Having trouble with classwork? Need to review?_ Please set up some time to meet
 - How to create a WebGL build (notes [here](https://docs.google.com/document/d/1jN6tMQMuEwypgFhxnnceGL80DApqk3HrdyZ6e4VdUqk/edit?usp=sharing))
 - Packaging a file and uploading to [itch.io](https://itch.io/)
 
+### Link to Better Minimal WebGL Template
+[Here is a link](https://seansleblanc.itch.io/better-minimal-webgl-template) to the Better Minimal WebGL Template by Sean S Leblanc
+
 
 ## After Dinner: Playtesting
 - What is playtesting? Why playtest?
@@ -27,16 +30,17 @@ _Having trouble with classwork? Need to review?_ Please set up some time to meet
 
 ## Uploading your work
 
-itch.io:
-- Upload the zipped WebGL build
-- Also upload the zipped desktop build.
+For itch.io:
+- Upload a zipped WebGL build.
+- Set the Dimensions to 1280 x 720
 - Add a description of your game
-- If you set visibility to private use the password we agree upon in class.
+- Also upload a zipped desktop build (Mac or PC okay!).
+- After testing, set the visibility to Public or Restricted (use SAM as the password).
 
-Canvas:
+For Canvas:
 I need the URL to your zipped Unity project folder:
-- Name the zip file yourname_midtermproject_2d.
-- Include a file called readme.txt somewhere in the zip file which credits any assets you might use.
+- Name the zip file _yourname_midtermproject_2d.zip_
+- Include a file called readme.txt somewhere in the zip file which credits any assets you might use. You can create this using either Notepad on PC or TextEdit on Mac
 
 I also need the URL to your itch.io page.
 - Please don't forget!
