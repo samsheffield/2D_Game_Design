@@ -49,4 +49,4 @@ I also need the URL to your itch.io page.
 # Homework
 
 ## SPRING BREAK
-Take a break. Make sure everything is turned in.
+Take a break. Make sure everything is turned in!
