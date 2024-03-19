@@ -17,6 +17,7 @@ Welcome back! Today, we'll meet as a group to...
 
 #### Demo Materials
 - Download the Tiny Town tilemap assets from Kenney.nl ([link](https://kenney.nl/assets/tiny-town)).
+- Download this player movement script ([here](https://drive.google.com/file/d/1yXuPjMBOjeKXE_VJiEDZkih7ef5AZ_Zq/view?usp=sharing))
 - Videos of today's demos will be available here by Thursday. 
 
 ## Next Week
