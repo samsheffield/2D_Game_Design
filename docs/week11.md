@@ -19,7 +19,7 @@ Welcome back! Today, we'll meet as a group to...
 
 #### Demo Materials
 - Download these modified Sokoban spritesheet assets from Kenney.nl ([link](https://drive.google.com/file/d/1-KaWeXpg04G2rbwtdpV0DYItFKjHnmdU/view?usp=sharing)). I've downsampled them to fit a 16 x 16 grid.
-- Videos of today's demos will be available here by Thursday. 
+- Video of today's demo is available [here](https://youtu.be/FCeY796CrWw?si=qDgOcbDND8z15Zaq). 
 
 # Homework
 
