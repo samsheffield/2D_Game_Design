@@ -17,4 +17,4 @@ This 3 credit, in-person studio course teaches the techniques of creating video 
 - [Week 7: Background music, Playerprefs. Continue Project 1](week7.md)
 - [Week 8: Creating WebGL builds, uploading to itch.io. Playtesting](week8.md)
 - [Week 10: Working with Tilemaps. Camera following. Sorting Layers](week10.md)
-
+- [Week 11: More Tilemaps. More Animation](week11.md)
